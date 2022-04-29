@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyUniverseWeb", "ToyUniverseWeb\ToyUniverseWeb.csproj", "{3A530C69-5AE1-4BB1-90AF-1062C0EE9639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyUniverseData", "ToyUniverseData\ToyUniverseData.csproj", "{24AFC112-BA7B-49ED-BD09-C17DAE18B7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A530C69-5AE1-4BB1-90AF-1062C0EE9639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A530C69-5AE1-4BB1-90AF-1062C0EE9639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A530C69-5AE1-4BB1-90AF-1062C0EE9639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A530C69-5AE1-4BB1-90AF-1062C0EE9639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24AFC112-BA7B-49ED-BD09-C17DAE18B7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AFC112-BA7B-49ED-BD09-C17DAE18B7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AFC112-BA7B-49ED-BD09-C17DAE18B7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AFC112-BA7B-49ED-BD09-C17DAE18B7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4093B3FB-0045-4518-B59C-18439F13CFE7}
+	EndGlobalSection
+EndGlobal
